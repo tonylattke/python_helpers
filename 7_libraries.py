@@ -49,3 +49,6 @@ random.shuffle(mylist)
 
 # Random member of list
 print random.choice(mylist)
+
+# Random int on range
+print random.randint(0,9)

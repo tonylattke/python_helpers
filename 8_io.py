@@ -3,7 +3,6 @@ import os
 ################################### Input reading #######################################
 name = raw_input("Introduce the file name: ")
 
-
 #################################### Create file ########################################
 file = open(name + '.txt', 'w')
 

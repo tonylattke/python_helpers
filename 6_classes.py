@@ -15,7 +15,7 @@ class Color:
 aux = Color()
 print aux
 
-# Creating a class with Inicialize method
+# Creating a class with Initialize method
 class Person:
 
 	def __init__(self,name,age):

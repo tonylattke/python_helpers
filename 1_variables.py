@@ -10,7 +10,7 @@ print "1 Hour have %d minutes." % minutes
 
 # Using Floating point numbers
 celcius   = 0
-farenheit = 32 + celcius*(9/5)
+farenheit = 32 + celcius*(9.0/5)
 print "%f Celcius are %f Farenheit grades" % (celcius,farenheit)
 
 # Using Floating point numbers with fixed amount digits of the right
