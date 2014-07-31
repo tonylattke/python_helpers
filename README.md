@@ -1,5 +1,8 @@
 # Python Helpers
 
+Interactive Console:
+python
+
 | File name        		| Description 												   |
 | --------------------- |------------------------------------------------------------- |
 | 0_hello_world.py 		| - Hello world to Python |
@@ -12,3 +15,6 @@
 | 7_libraries.py		| - Using python libraries |
 | 8_io.py 				| - Read standard input and manipulate files |
 | 9_value_transform.py	| - Value to string and string to value functions |
+| 10_0_importing_files.py	| - Class created for be exported |
+| 10_1_importing_files.py	| - Class and module imported |
+| importing_files_class.py	| - Class created for be exported |
