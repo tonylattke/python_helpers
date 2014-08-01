@@ -37,7 +37,11 @@ print 'Factorial of %d is %d' % (number,factorial(number))
 print 'Fibonacci of %d is %d' % (number,fibonacci(number))
 
 #################################### Example of main ####################################
+import sys
+
 def main():
+	params = sys.argv
+	print params
 	print 'Here is the main'
 
 if  __name__ =='__main__':
